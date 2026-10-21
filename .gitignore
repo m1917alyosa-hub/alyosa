@@ -1,0 +1,3 @@
+suda-slides/checks/
+suda-slides/*.zip
+**/__pycache__/
